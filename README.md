@@ -1,5 +1,5 @@
 # Rossman-Sales-Monash-ADS1002
-A data-driven analysis and predictive modeling project investigating the key structural and locational factors influencing residential rental prices in Malaysia.
+Analysis and predictive modelling of Rossmann store sales using customer traffic, promotions, holidays, and time-related features.
 # Project Overview
 Investigated factors affecting daily sales performance across Rossmann drugstores using a dataset of over 1 million observations. The project aims to optimize demand forecasting by analyzing variables like customer traffic, promotions, and holidays.
 
